@@ -46,6 +46,7 @@ LLMs are excellent for tasks like generating boilerplate code, summarizing text,
 
 ## Resources
 * <https://en.wikipedia.org/wiki/Prompt_engineering>
+* <https://promptflow.digital/prompts>
 * <https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview>
 * <https://www.reddit.com/r/PromptEngineering/> and <https://www.reddit.com/r/PromptEngineering/comments/120fyp1/useful_links_for_getting_started_with_prompt/>
 
