@@ -1,8 +1,9 @@
 source: <https://github.com/labarba/sciwrite/blob/main/SKILL.md>
 
 ---
+
 name: manuscript-writing-review
-description: >
+description: 
   Use this skill when asked to review, edit, or improve the writing quality of a
   scientific or engineering manuscript. Triggers include: "review my writing,"
   "check my manuscript," "improve clarity," "clean up the prose," "edit for
@@ -11,6 +12,7 @@ description: >
   a research paper draft. Also triggers when asked to prepare a manuscript for
   submission to a specific journal. Do NOT use for content/technical review of
   methods or results, statistical analysis, or citation formatting.
+
 ---
 
 # Manuscript Writing Review — Scientific Clarity and Precision
