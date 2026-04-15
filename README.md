@@ -1,7 +1,6 @@
 skill guides for LLMs; the new prompt engineering
 
-Physics Derivation Graph:
-* <https://allofphysics.com/blog/page/2026/03/Context%20for%20a%20Prompt%20for%20LLMs>
+
 
 See also
 * <https://github.com/Prat011/awesome-llm-skills>
@@ -13,9 +12,12 @@ See also
 * <https://physicsderivationgraph.blogspot.com/2023/12/best-practices-for-prompts-for-large.html>
 * <https://physicsderivationgraph.blogspot.com/2025/06/best-practices-for-use-of-llms.html>
 
+For Physics Derivation Graph: <https://allofphysics.com/blog/page/2026/03/Context%20for%20a%20Prompt%20for%20LLMs>
+
 Prompts without context will have low-quality responses. Provide as much detail as you can. Use domain-specific language. Relevant jargon guides the LLM to a more relevant topic area.
 
-Break large, complicated tasks into smaller, more manageable, and discrete steps that an LLM can handle.
+Break large, complicated tasks into smaller, more manageable, and discrete steps that an LLM can handle.<BR>
+First Plan: draft a design doc. Then ask "If you were a senior engineer, what are the flaws in this plan?". Then enact the plan by writing software. Then test/evaluate results.
 
 Instead of asking for an entire website or API at once, generate components or single endpoints and build incrementally.
 
@@ -43,10 +45,9 @@ Ask the LLM to help craft a prompt. For example, "Help me write a detailed and s
 LLMs are excellent for tasks like generating boilerplate code, summarizing text, explaining complex concepts, and assisting with writing. Ask for advice and brainstorming or feedback on tone and style rather than specific facts. The LLM is not a database of facts.
 
 ## Resources
-<https://en.wikipedia.org/wiki/Prompt_engineering>
-
-<https://www.reddit.com/r/PromptEngineering/>
-<https://www.reddit.com/r/PromptEngineering/comments/120fyp1/useful_links_for_getting_started_with_prompt/>
+* <https://en.wikipedia.org/wiki/Prompt_engineering>
+* <https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview>
+* <https://www.reddit.com/r/PromptEngineering/> and <https://www.reddit.com/r/PromptEngineering/comments/120fyp1/useful_links_for_getting_started_with_prompt/>
 
 
 
