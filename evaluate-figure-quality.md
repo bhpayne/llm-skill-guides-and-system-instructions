@@ -1,5 +1,9 @@
-# Do the figures in a document look like they belong to a single story?
+---
+name: figure-quality
+description: Assess figures. Use when the user asks to criticize a document.
+---
 
+# Do the figures in a document look like they belong to a single story?
 
 - Are all fonts the same? 
 - Are font sizes consistent?
