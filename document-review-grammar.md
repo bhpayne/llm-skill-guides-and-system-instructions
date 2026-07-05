@@ -1,3 +1,9 @@
+---
+name: grammar-review
+description: Review grammar. Use when the user asks to review a document.
+---
+
+
 # Guide for Grammar Review
 
 * Review the article for problems like grammar errors, spelling errors, typos, capitalization, and so on.
