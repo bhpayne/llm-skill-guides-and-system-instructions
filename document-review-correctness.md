@@ -1,3 +1,8 @@
+---
+name: correctness-of-document
+description: Identify mistakes in a document. Use when the user asks to review a document.
+---
+
 # Guide for Correctness Check
 
 * Check the technical correctness thoroughly. Think about all the scenarios.
