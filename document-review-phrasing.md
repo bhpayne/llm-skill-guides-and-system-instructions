@@ -1,3 +1,8 @@
+---
+name: phrasing-review
+description: review phrasing. Use when the user asks to review a document.
+---
+
 # Guide for Phrasing and Sentence Structure Review
 
 * Review the article for awkward phrasing, unnatural sentence flow, and syntax that sounds weird or unsmooth to native speakers.
