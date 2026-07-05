@@ -1,8 +1,13 @@
-Below is a list of framings used in writing.
+---
+name: which-framing-summary
+description: a list of framings used in writing and questions per framing. Use when the user asks to summarize a document.
+---
+
+# framings for documents
 
 Determine which framing is relevant based on the text, then answer the questions that are specific to the framing
 
-# a problem needs solving (Problem/Solution Frame)
+## a problem needs solving (Problem/Solution Frame)
 *   What is the problem?
 *   Who has the problem?
 *   What is causing the problem?
@@ -12,7 +17,7 @@ Determine which framing is relevant based on the text, then answer the questions
 *   What results from these solutions?
 *   Is the problem solved? Do any new problems develop because of the solutions?
 
-# certain things result from certain conditions (Cause/Effect Frame)
+## certain things result from certain conditions (Cause/Effect Frame)
 *   What is it that happens?
 *   What causes it to happen?
 *   What are the important elements or factors that cause this effect?
@@ -20,7 +25,7 @@ Determine which framing is relevant based on the text, then answer the questions
 *   Will this result always happen from these causes? Why or why not?
 *   How would the result change if the elements or factors are different?
 
-# certain things are similar, or different (Compare/Contrast Frame)
+## certain things are similar, or different (Compare/Contrast Frame)
 *   What is being compared and contrasted?
 *   What categories of characteristics or attributes are used to compare and contrast these things?
 *   How are the things alike or similar?
@@ -30,7 +35,7 @@ Determine which framing is relevant based on the text, then answer the questions
 *   In terms of the qualities that are most important, are these things more alike, or more different?
 *   What can we conclude about these things or items?
 
-# people are trying to do something for a specific reason (Goal/Action/Outcome Frame)
+## people are trying to do something for a specific reason (Goal/Action/Outcome Frame)
 *   Who are the people involved?
 *   What are they trying to do or achieve? What is their goal?
 *   What actions do they take to achieve their goal?
@@ -39,7 +44,7 @@ Determine which framing is relevant based on the text, then answer the questions
 *   Are there unexpected outcomes from their actions?
 *   Would other actions have been more effective? Could they have done something else?
 
-# a concept needs to be understood (Concept/Definition Frame)
+## a concept needs to be understood (Concept/Definition Frame)
 *   What is the concept?
 *   To what category does it belong?
 *   What are its critical characteristics or attributes?
@@ -49,7 +54,7 @@ Determine which framing is relevant based on the text, then answer the questions
 *   What are examples of it?
 *   What are examples of things that share some but not all of its characteristics?
 
-# a viewpoint is being argued and supported (Proposition/Support Frame)
+## a viewpoint is being argued and supported (Proposition/Support Frame)
 *   What is the general topic area or issue?
 *   What proposition (viewpoint, theory, hypothesis, thesis) is being presented?
 *   How is this proposition supported?
