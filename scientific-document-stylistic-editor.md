@@ -1,5 +1,3 @@
-source: <https://github.com/labarba/sciwrite/blob/main/SKILL.md>
-
 ---
 
 name: manuscript-writing-review
@@ -14,6 +12,8 @@ description:
   methods or results, statistical analysis, or citation formatting.
 
 ---
+
+source: <https://github.com/labarba/sciwrite/blob/main/SKILL.md>
 
 # Manuscript Writing Review — Scientific Clarity and Precision
 
