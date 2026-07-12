@@ -6,6 +6,8 @@ I'm not aware of the history; tell me what historical work has been done
 
 What common challenges exist? What potholes to avoid?
 
+Interview me one question at a time about anything ambiguous. Prioritize questions where my answer would change the design or architecture.
+
 Help me find my unknown unknowns and explain them to me. 
 
 What are the relevant unknown unknowns that would help me prompt you better.
